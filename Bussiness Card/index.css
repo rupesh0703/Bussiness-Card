@@ -1,0 +1,26 @@
+body{
+    margin: 20px;
+}
+.bg{
+    background-color: #F8F4E3;
+    height: 200px;
+    width: 400px;
+    border: 2px solid  #E9DBB3;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin : 50px auto;
+    
+    border-bottom:10px solid #E9DBB3 ;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+h3,p{
+    text-align: center;
+}
+.side{
+    color: #2b2839;
+}
+.leo{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
